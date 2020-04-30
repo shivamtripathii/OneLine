@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344335586291",
+    "firebase_url": "https://oneline-secret.firebaseio.com",
+    "project_id": "oneline-secret",
+    "storage_bucket": "oneline-secret.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344335586291:android:05908c1e20afef5afcf886",
+        "android_client_info": {
+          "package_name": "com.fastest.oneline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344335586291-nsca93ua2nkatod55vug5aq9ddncmq5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZ6PUB5Psb-UaLHPSkyBaqJCaSadwvCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344335586291-nsca93ua2nkatod55vug5aq9ddncmq5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
